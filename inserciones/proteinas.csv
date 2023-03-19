@@ -1,0 +1,9 @@
+Entry;Protein names;Organism;Length
+P14735;Insulin-degrading enzyme (EC 3.4.24.56) (Abeta-degrading protease) (Insulin protease) (Insulinase) (Insulysin);Homo sapiens (Human);1019
+P01308;Insulin [Cleaved into: Insulin B chain, Insulin A chain];Homo sapiens (Human);110
+P06213;Insulin receptor (IR) (EC 2.7.10.1) (CD antigen CD220) [Cleaved into: Insulin receptor subunit alpha, Insulin receptor subunit beta];Homo sapiens (Human);1382
+A2VEY9;Palmitoyltransferase app (EC 2.3.1.225) (Protein approximated);Drosophila melanogaster (Fruit fly);693
+P53933;Phosphatidate phosphatase APP1 (PAP) (EC 3.1.3.4) (Actin patch protein 1);Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Bakers yeast);587
+Q92624;Amyloid protein-binding protein 2 (Amyloid beta precursor protein-binding protein 2) (APP-BP2) (Protein interacting with APP tail 1);Homo sapiens (Human);585
+O75161;Nephrocystin-4 (Nephroretinin);Homo sapiens (Human);1426
+P59240;Nephrocystin-4 (Nephroretinin);Mus musculus (Mouse);1425
