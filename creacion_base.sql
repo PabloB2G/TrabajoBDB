@@ -160,9 +160,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 DROP TABLE IF EXISTS `TrabajoBDB`.`Sintomas` ;
 
 CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Sintomas` (
-  `idSintomas` VARCHAR(45) NOT NULL,
-  `Descripcion` VARCHAR(100) NULL DEFAULT NULL,
-  PRIMARY KEY (`idSintomas`))
+  `Descripcion` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`Descripcion`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -173,17 +172,21 @@ DEFAULT CHARACTER SET = utf8mb3;
 DROP TABLE IF EXISTS `TrabajoBDB`.`Sintomas_has_Enfermedad` ;
 
 CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Sintomas_has_Enfermedad` (
-  `Sintomas_idSintomas` VARCHAR(45) NOT NULL,
+  `Sintomas_Descripcion` VARCHAR(100) NOT NULL,
   `Enfermedad_idEnfermedad` VARCHAR(100) NOT NULL,
-  PRIMARY KEY (`Sintomas_idSintomas`, `Enfermedad_idEnfermedad`),
+  PRIMARY KEY (`Sintomas_Descripcion`, `Enfermedad_idEnfermedad`),
   INDEX `fk_Sintomas_has_Enfermedad_Enfermedad1_idx` (`Enfermedad_idEnfermedad` ASC) VISIBLE,
-  INDEX `fk_Sintomas_has_Enfermedad_Sintomas1_idx` (`Sintomas_idSintomas` ASC) VISIBLE,
+  INDEX `fk_Sintomas_has_Enfermedad_Sintomas1_idx` (`Sintomas_Descripcion` ASC) VISIBLE,
+  CONSTRAINT `fk_Sintomas_has_Enfermedad_Sintomas1`
+    FOREIGN KEY (`Sintomas_Descripcion`)
+    REFERENCES `TrabajoBDB`.`Sintomas` (`Descripcion`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
   CONSTRAINT `fk_Sintomas_has_Enfermedad_Enfermedad1`
     FOREIGN KEY (`Enfermedad_idEnfermedad`)
-    REFERENCES `TrabajoBDB`.`Enfermedad` (`idEnfermedad`),
-  CONSTRAINT `fk_Sintomas_has_Enfermedad_Sintomas1`
-    FOREIGN KEY (`Sintomas_idSintomas`)
-    REFERENCES `TrabajoBDB`.`Sintomas` (`idSintomas`))
+    REFERENCES `TrabajoBDB`.`Enfermedad` (`idEnfermedad`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 

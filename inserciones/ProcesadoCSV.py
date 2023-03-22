@@ -57,10 +57,9 @@ def cargarSintomas(idEnfermedad, sintomas, inserciones):
     
     for i in range(len(arraySintomas)):
         sintoma = arraySintomas[i].strip()
-        idSin = random.randint(1, 10000)
-        inserSintoma = "INSERT INTO Sintomas (idSintomas, Descripcion) VALUES ('" + str(idSin) + "', '" + sintoma + "');"
+        inserSintoma = "INSERT IGNORE INTO Sintomas (Descripcion) VALUES ('" + sintoma + "');"
         inserciones.append(inserSintoma)
-        inserEnferSintoma = "INSERT INTO Sintomas_has_Enfermedad (Sintomas_idSintomas, Enfermedad_idEnfermedad) VALUES (" + str(idSin) + ", '" + idEnfermedad + "');"
+        inserEnferSintoma = "INSERT INTO Sintomas_has_Enfermedad (Sintomas_Descripcion, Enfermedad_idEnfermedad) VALUES ('" + sintoma + "', '" + idEnfermedad + "');"
         inserciones.append(inserEnferSintoma)
     
 def importarInserciones(nomFichero, inserciones):
