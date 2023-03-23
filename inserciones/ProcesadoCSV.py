@@ -44,8 +44,12 @@ def cargarEnfermedades(nomFichero, inserciones, idP):
         
 def cargarGenes(idEnfermedad, genes, inserciones):
     arrayGen = genes.split(",")
+    rango = len(arrayGen)
+    maximo = random.randint(10,15)
+    if (rango > maximo):
+        rango = maximo
         
-    for i in range(len(arrayGen)):
+    for i in range(rango):
         gen = arrayGen[i].strip()
         inserGen = "INSERT IGNORE INTO Genes (Nombre) VALUES ('" + gen + "');"
         inserciones.append(inserGen)
