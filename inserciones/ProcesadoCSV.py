@@ -25,7 +25,7 @@ def cargarEnfermedades(nomFichero, inserciones, idP):
                 genes = lin[9:len(lin)-1]
                 lin = next(enfermedades)
                 cambio = lin[16:len(lin)-1]
-                if (cambio == "\n"):
+                if (cambio == ""):
                     cambio = "Not registered"
                 lin = next(enfermedades)
                 sintomas = lin[14:len(lin)-1]
