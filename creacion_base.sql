@@ -44,10 +44,12 @@ CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Articulo` (
   `Enfermedad_idEnfermedad` VARCHAR(100) NOT NULL,
   PRIMARY KEY (`idArticulo`),
   INDEX `fk_Articulo_Enfermedad1_idx` (`Enfermedad_idEnfermedad` ASC) VISIBLE,
+  INDEX `Fecha` (`Fecha` ASC) VISIBLE,
   CONSTRAINT `fk_Articulo_Enfermedad1`
     FOREIGN KEY (`Enfermedad_idEnfermedad`)
     REFERENCES `TrabajoBDB`.`Enfermedad` (`idEnfermedad`))
 ENGINE = InnoDB
+AUTO_INCREMENT = 101
 DEFAULT CHARACTER SET = utf8mb3;
 
 
@@ -60,6 +62,27 @@ CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Autor` (
   `idAutor` VARCHAR(10) NOT NULL,
   `Nombre` VARCHAR(45) NULL DEFAULT NULL,
   PRIMARY KEY (`idAutor`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb3;
+
+
+-- -----------------------------------------------------
+-- Table `TrabajoBDB`.`Articulo_has_Autor`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `TrabajoBDB`.`Articulo_has_Autor` ;
+
+CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Articulo_has_Autor` (
+  `Articulo_idArticulo` INT NOT NULL,
+  `Autor_idAutor` VARCHAR(10) NOT NULL,
+  PRIMARY KEY (`Articulo_idArticulo`, `Autor_idAutor`),
+  INDEX `fk_Articulo_has_Autor_Autor1_idx` (`Autor_idAutor` ASC) VISIBLE,
+  INDEX `fk_Articulo_has_Autor_Articulo1_idx` (`Articulo_idArticulo` ASC) VISIBLE,
+  CONSTRAINT `fk_Articulo_has_Autor_Articulo1`
+    FOREIGN KEY (`Articulo_idArticulo`)
+    REFERENCES `TrabajoBDB`.`Articulo` (`idArticulo`),
+  CONSTRAINT `fk_Articulo_has_Autor_Autor1`
+    FOREIGN KEY (`Autor_idAutor`)
+    REFERENCES `TrabajoBDB`.`Autor` (`idAutor`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -107,7 +130,8 @@ CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Proteina` (
   `Longitud` INT NULL DEFAULT NULL,
   `Nombre` VARCHAR(200) NULL DEFAULT NULL,
   `Organismo` VARCHAR(100) NULL DEFAULT NULL,
-  PRIMARY KEY (`idProteina`))
+  PRIMARY KEY (`idProteina`),
+  INDEX `Longitud` (`Longitud` ASC) VISIBLE)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -162,31 +186,6 @@ CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Sintomas_has_Enfermedad` (
   CONSTRAINT `fk_Sintomas_has_Enfermedad_Sintomas1`
     FOREIGN KEY (`Sintomas_Descripcion`)
     REFERENCES `TrabajoBDB`.`Sintomas` (`Descripcion`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb3;
-
-
--- -----------------------------------------------------
--- Table `TrabajoBDB`.`Articulo_has_Autor`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `TrabajoBDB`.`Articulo_has_Autor` ;
-
-CREATE TABLE IF NOT EXISTS `TrabajoBDB`.`Articulo_has_Autor` (
-  `Articulo_idArticulo` INT NOT NULL,
-  `Autor_idAutor` VARCHAR(10) NOT NULL,
-  PRIMARY KEY (`Articulo_idArticulo`, `Autor_idAutor`),
-  INDEX `fk_Articulo_has_Autor_Autor1_idx` (`Autor_idAutor` ASC) VISIBLE,
-  INDEX `fk_Articulo_has_Autor_Articulo1_idx` (`Articulo_idArticulo` ASC) VISIBLE,
-  CONSTRAINT `fk_Articulo_has_Autor_Articulo1`
-    FOREIGN KEY (`Articulo_idArticulo`)
-    REFERENCES `TrabajoBDB`.`Articulo` (`idArticulo`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_Articulo_has_Autor_Autor1`
-    FOREIGN KEY (`Autor_idAutor`)
-    REFERENCES `TrabajoBDB`.`Autor` (`idAutor`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
