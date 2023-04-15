@@ -1,0 +1,57 @@
+[
+	{
+		"idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "drug response  (Last reviewed: Nov 27, 2017)"
+	},
+	{
+		"idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Pathogenic  (Last reviewed: Aug 12, 2011)"
+	},
+	{
+		"idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Pathogenic  (Last reviewed: Aug 12, 2011)"
+	},
+	{
+		"idEnfermedad" : "GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Pathogenic  (Last reviewed: Feb 11, 2016)"
+	},
+	{
+		"idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Pathogenic  (Last reviewed: Sep 1, 1993)"
+	},
+	{
+		"idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Benign  (Last reviewed: Jun 14, 2016)"
+	},
+	{
+		"idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A",
+		"CambioProteina" : "Not registered",
+		"SignificanciaClinica" : "Likely benign  (Last reviewed: Jun 14, 2016)"
+	},
+	{
+		"idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)",
+		"CambioProteina" : "Y372H, Y886H, Y927H, Y888H",
+		"SignificanciaClinica" : "Uncertain significance  (Last reviewed: Aug 17, 2022)"
+	},
+	{
+		"idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)",
+		"CambioProteina" : "V917I, V956I, V915I, V401I",
+		"SignificanciaClinica" : "Uncertain significance  (Last reviewed: Apr 13, 2022)"
+	},
+	{
+		"idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)",
+		"CambioProteina" : "D964Y, D409Y, D923Y, D925Y",
+		"SignificanciaClinica" : "Uncertain significance  (Last reviewed: Nov 17, 2022)"
+	},
+	{
+		"idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)",
+		"CambioProteina" : "I978V, I423V, I939V, I937V",
+		"SignificanciaClinica" : "Likely benign  (Last reviewed: Dec 2, 2021)"
+	}
+]
