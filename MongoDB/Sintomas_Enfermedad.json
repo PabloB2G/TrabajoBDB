@@ -1,0 +1,62 @@
+[
+	{
+		"Sintomas_Descripcion" : "Poly (ADP-Ribose) polymerase inhibitor response",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"Sintomas_Descripcion" : "See cases",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"Sintomas_Descripcion" : "See cases",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"Sintomas_Descripcion" : "See cases",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3"
+	},
+	{
+		"Sintomas_Descripcion" : "Leprechaunism syndrome",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"Sintomas_Descripcion" : "Insulin-resistant diabetes mellitus AND acanthosis nigricans",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"Sintomas_Descripcion" : "Leprechaunism syndrome",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"Sintomas_Descripcion" : "Rabson-Mendenhall syndrome",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"Sintomas_Descripcion" : "Insulin-resistant diabetes mellitus AND acanthosis nigricans",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"Sintomas_Descripcion" : "Leprechaunism syndrome",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"Sintomas_Descripcion" : "Rabson-Mendenhall syndrome",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"Sintomas_Descripcion" : "Inborn genetic diseases",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"Sintomas_Descripcion" : "Inborn genetic diseases",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"Sintomas_Descripcion" : "Inborn genetic diseases",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"Sintomas_Descripcion" : "Inborn genetic diseases",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	}
+]
