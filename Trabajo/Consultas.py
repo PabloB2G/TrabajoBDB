@@ -35,6 +35,9 @@ if __name__ == '__main__':
     print("1 Mostrar las proteinas que tengan una longitud mayor a x")
     print("2 Mostrar el nombre y la longitud de las proteinas que no esten presentes en ninguna enfermedad")
     print("3 Muestra los articulos publicados antes de un articulo dado")
+    print("4 Muestra aquellos artículos publicados a partir de una fecha dada")
+    print("5 Muestra las enfermedades que tengan un síntoma específico")
+    print("6 Muestra aquellas enfermedades relacionadas con más de x genes")
 
     num = input()
     if num == "1":
@@ -50,5 +53,14 @@ if __name__ == '__main__':
         x = input()
         sql = 'select Nombre, Fecha from Articulo where Fecha < (select Fecha from Articulo where idArticulo = "' + x + '") ' \
                                                                                                                         'order by Fecha desc limit 10;'
+    elif num == "4":
+        sql = "SELECT * FROM Articulo WHERE fecha >= '2020-01-01';"
+    elif num == "5":
+        sql = "SELECT Enfermedad.idEnfermedad from Enfermedad JOIN Sintomas_has_Enfermedad ON Enfermedad.idEnfermedad = Sintomas_has_Enfermedad.Enfermedad_idEnfermedad WHERE Sintomas_has_Enfermedad.Sintomas_Descripcion = 'Leprechaunism syndrome';"  
+    elif num == "6":
+        print("Elija el número de genes:")
+        x = input()
+        sql = "SELECT idEnfermedad from Enfermedad WHERE (SELECT COUNT(Genes_nombre) from Enfermedad_has_Genes WHERE Enfermedad_idEnfermedad = idEnfermedad) >" + x + ";"                                                                                                 
+
     test.print_query(sql)
     test.close()
