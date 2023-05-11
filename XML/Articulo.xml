@@ -1,0 +1,702 @@
+<Articulos>
+
+	<Articulo>
+		<idArticulo>1</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2004-09-22 04:47:57</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>2</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2021-08-11 18:58:56</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>3</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2019-01-07 03:35:04</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>4</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2000-03-02 07:13:34</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>5</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2018-03-05 16:22:06</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>6</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2022-11-23 20:39:46</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>7</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2009-04-15 21:14:59</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>8</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2002-02-27 23:57:18</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>9</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2009-09-25 09:59:08</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>10</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2014-07-29 14:52:51</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>11</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2008-11-12 23:47:23</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>12</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2020-02-10 18:53:41</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>13</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2011-03-21 11:46:02</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>14</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2002-03-16 04:47:14</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>15</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2007-09-05 11:00:07</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>16</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2021-03-14 10:00:03</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>17</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2015-07-27 18:50:29</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>18</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2022-02-09 20:36:20</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>19</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2016-02-09 11:28:19</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>20</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2014-06-11 14:47:00</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>21</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2020-03-26 07:00:46</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>22</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2000-09-26 20:47:44</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>23</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2017-12-30 02:17:05</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>24</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2015-05-02 03:57:47</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>25</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2000-03-22 12:45:48</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>26</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2005-10-31 02:47:55</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>27</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2015-04-28 21:36:34</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>28</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2010-03-15 16:19:36</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>29</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2019-10-19 08:50:54</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>30</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2003-09-28 18:26:45</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>31</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2017-10-24 22:43:15</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>32</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2016-01-20 23:13:04</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>33</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2013-06-26 07:43:20</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>34</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2008-11-22 21:27:59</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>35</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2019-01-10 03:19:05</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>36</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2009-08-14 18:22:54</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>37</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2007-10-26 14:39:54</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>38</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2006-03-27 13:52:40</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>39</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2011-12-08 03:22:28</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>40</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2017-07-23 19:50:06</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>41</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2017-09-20 12:59:47</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>42</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2019-04-12 11:53:33</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>43</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2007-04-11 21:35:15</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>44</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2005-04-24 06:49:24</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>45</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2016-06-14 15:08:19</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>46</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2019-06-28 08:44:39</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>47</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2012-11-13 01:40:46</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>48</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2006-07-11 07:53:28</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>49</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2009-12-12 18:23:48</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>50</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2012-06-07 12:16:32</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>51</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2005-05-06 23:37:57</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>52</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2016-04-11 03:56:56</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>53</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2007-04-03 16:55:03</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>54</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2021-06-15 00:29:08</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>55</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2007-09-24 09:27:05</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>56</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2021-11-08 12:50:34</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>57</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2013-10-11 02:15:01</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>58</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2015-05-11 19:59:23</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>59</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2009-05-08 19:34:21</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>60</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2009-06-13 09:28:08</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>61</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2000-10-22 18:54:28</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>62</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2022-02-12 17:52:36</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>63</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2016-06-25 13:32:14</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>64</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2008-09-11 18:37:55</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>65</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2000-05-06 10:28:44</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>66</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2013-06-05 00:25:40</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>67</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2007-03-20 05:45:14</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>68</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2012-04-09 08:28:17</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>69</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2013-06-21 06:00:19</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>70</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2013-04-18 17:02:44</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>71</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2013-01-19 11:07:02</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>72</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2007-07-31 01:52:30</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>73</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2007-05-30 09:41:12</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>74</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2000-12-15 13:19:54</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>75</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2009-07-02 22:51:08</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>76</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2013-05-02 07:18:09</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>77</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2005-03-11 22:24:16</Fecha>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>78</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2020-10-14 17:51:04</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>79</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2022-05-09 17:10:37</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>80</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2007-02-05 20:58:57</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>81</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2008-11-27 21:22:05</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>82</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2013-10-14 22:23:32</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>83</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2000-01-01 13:51:16</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>84</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2018-02-12 14:08:16</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>85</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2002-06-10 05:23:50</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>86</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2007-10-09 04:45:00</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>87</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2016-02-19 16:42:51</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>88</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2003-06-15 03:59:52</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>89</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2007-10-12 12:00:08</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>90</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2015-05-25 03:08:01</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>91</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2010-03-04 23:17:48</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>92</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2010-06-08 12:53:37</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>93</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2001-04-23 07:49:27</Fecha>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>94</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2010-07-17 12:37:23</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>95</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2013-03-18 13:52:18</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>96</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2019-11-15 15:27:32</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>97</idArticulo>
+		<Nombre>No queda nada por descubrir</Nombre>
+		<Fecha>2010-08-11 02:24:45</Fecha>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>98</idArticulo>
+		<Nombre>La mejor enfermedad del mundo</Nombre>
+		<Fecha>2001-05-29 07:10:34</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>99</idArticulo>
+		<Nombre>Se descubre nueva proteína</Nombre>
+		<Fecha>2022-02-17 10:08:28</Fecha>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Articulo>
+
+	<Articulo>
+		<idArticulo>100</idArticulo>
+		<Nombre>La peor enfermedad del mundo</Nombre>
+		<Fecha>2005-10-05 18:38:12</Fecha>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Articulo>
+</Articulos>

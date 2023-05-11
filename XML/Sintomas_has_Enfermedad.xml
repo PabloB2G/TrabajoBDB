@@ -1,0 +1,77 @@
+<Sintomas_Enfermedades>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Poly (ADP-Ribose) polymerase inhibitor response</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>See cases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>See cases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>See cases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Leprechaunism syndrome</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Insulin-resistant diabetes mellitus AND acanthosis nigricans</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Leprechaunism syndrome</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Rabson-Mendenhall syndrome</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Insulin-resistant diabetes mellitus AND acanthosis nigricans</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Leprechaunism syndrome</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Rabson-Mendenhall syndrome</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Inborn genetic diseases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Inborn genetic diseases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Inborn genetic diseases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+
+	<Sintoma_Enfermedad>
+		<Sintomas_Descripcion>Inborn genetic diseases</Sintomas_Descripcion>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+	</Sintoma_Enfermedad>
+</Sintomas_Enfermedades>

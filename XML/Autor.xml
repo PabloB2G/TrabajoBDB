@@ -1,0 +1,37 @@
+<Autores>
+
+	<Autor>
+		<idAutor>00000001I</idAutor>
+		<Nombre>ISMAEL_NAVAS_DELGADO</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>00000001P</idAutor>
+		<Nombre>PABLO_BERMUDEZ_GAMEZ</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>00000001S</idAutor>
+		<Nombre>SUSANA_ROCIO_FERNANDEZ_GIACCOMASSI</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>00000001V</idAutor>
+		<Nombre>VICTOR_GUIRADO_OSORIO</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>00000002P</idAutor>
+		<Nombre>PABLO_MORENO_GARCIA-ESPINA</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>00000002S</idAutor>
+		<Nombre>SANDRO_JOSE_HURTADO_REQUENA</Nombre>
+	</Autor>
+
+	<Autor>
+		<idAutor>11111111</idAutor>
+		<Nombre>PEDRO SANCHEZ</Nombre>
+	</Autor>
+</Autores>

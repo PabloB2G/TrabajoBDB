@@ -1,0 +1,272 @@
+<Enfermedades_Genes>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AATBC</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ABCG1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ACER1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ACSBG2</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ACTL9</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADAMTS1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADAMTS10</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADAMTS14</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADAMTS5</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADARB1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADD3</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADGRA1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ADGRE1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AGPAT3</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AIRE</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ALKBH7</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AMH</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ANGPTL4</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ANKRD24</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AP3D1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>APBA3</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>APP</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ARHGEF18</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ATP5PF</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>ATP5PO</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>AVPI1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>B3GALT5</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>B3GALT5-AS1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>BACE2</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>COL13A1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>COL17A1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>COMTD1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>COX15</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>CPEB3</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>CPN1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>CYP17A1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1</Enfermedad_idEnfermedad>
+		<Genes_Nombre>CYP2C18</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2779T>C (p.Tyr927His)</Enfermedad_idEnfermedad>
+		<Genes_Nombre>IDE</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2866G>A (p.Val956Ile)</Enfermedad_idEnfermedad>
+		<Genes_Nombre>IDE</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)</Enfermedad_idEnfermedad>
+		<Genes_Nombre>IDE</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_004969.4(IDE):c.2932A>G (p.Ile978Val)</Enfermedad_idEnfermedad>
+		<Genes_Nombre>IDE</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NC_000019.10:g.(?_7112255)_(7249328_?)del</Enfermedad_idEnfermedad>
+		<Genes_Nombre>INSR</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4802C>T</Enfermedad_idEnfermedad>
+		<Genes_Nombre>INSR</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>NM_000208.3(INSR):c.*4803G>A</Enfermedad_idEnfermedad>
+		<Genes_Nombre>INSR</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP19-4</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP19-5</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP19-6</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP19-7</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP19-8</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP20-1</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP20-2</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP20-3</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP20-4</Genes_Nombre>
+	</Enfermedad_Gen>
+
+	<Enfermedad_Gen>
+		<Enfermedad_idEnfermedad>GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3</Enfermedad_idEnfermedad>
+		<Genes_Nombre>KRTAP21-1</Genes_Nombre>
+	</Enfermedad_Gen>
+</Enfermedades_Genes>

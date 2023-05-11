@@ -1,0 +1,50 @@
+<Proteinas>
+
+	<Proteina idProteina = "A2VEY9">
+		<Longitud>693</Longitud>
+		<Nombre>Palmitoyltransferase app (EC 2.3.1.225) (Protein approximated)</Nombre>
+		<Organismo>Drosophila melanogaster (Fruit fly)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "O75161">
+		<Longitud>1426</Longitud>
+		<Nombre>Nephrocystin-4 (Nephroretinin)</Nombre>
+		<Organismo>Homo sapiens (Human)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "P01308">
+		<Longitud>110</Longitud>
+		<Nombre>Insulin [Cleaved into: Insulin B chain, Insulin A chain]</Nombre>
+		<Organismo>Homo sapiens (Human)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "P06213">
+		<Longitud>1382</Longitud>
+		<Nombre>Insulin receptor (IR) (EC 2.7.10.1) (CD antigen CD220) [Cleaved into: Insulin receptor subunit alpha, Insulin receptor subunit beta]</Nombre>
+		<Organismo>Homo sapiens (Human)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "P14735">
+		<Longitud>1019</Longitud>
+		<Nombre>Insulin-degrading enzyme (EC 3.4.24.56) (Abeta-degrading protease) (Insulin protease) (Insulinase) (Insulysin)</Nombre>
+		<Organismo>Homo sapiens (Human)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "P53933">
+		<Longitud>587</Longitud>
+		<Nombre>Phosphatidate phosphatase APP1 (PAP) (EC 3.1.3.4) (Actin patch protein 1)</Nombre>
+		<Organismo>Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Bakers yeast)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "P59240">
+		<Longitud>1425</Longitud>
+		<Nombre>Nephrocystin-4 (Nephroretinin)</Nombre>
+		<Organismo>Mus musculus (Mouse)</Organismo>
+	</Proteina>
+
+	<Proteina idProteina = "Q92624">
+		<Longitud>585</Longitud>
+		<Nombre>Amyloid protein-binding protein 2 (Amyloid beta precursor protein-binding protein 2) (APP-BP2) (Protein interacting with APP tail 1)</Nombre>
+		<Organismo>Homo sapiens (Human)</Organismo>
+	</Proteina>
+</Proteinas>

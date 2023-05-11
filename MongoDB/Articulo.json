@@ -1,0 +1,602 @@
+[
+	{
+		"idArticulo" : 1,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2004-09-22 04:47:57",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 2,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2021-08-11 18:58:56",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 3,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2019-01-07 03:35:04",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 4,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2000-03-02 07:13:34",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 5,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2018-03-05 16:22:06",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 6,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2022-11-23 20:39:46",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 7,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2009-04-15 21:14:59",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 8,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2002-02-27 23:57:18",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 9,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2009-09-25 09:59:08",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 10,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2014-07-29 14:52:51",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 11,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2008-11-12 23:47:23",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 12,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2020-02-10 18:53:41",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 13,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2011-03-21 11:46:02",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 14,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2002-03-16 04:47:14",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 15,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2007-09-05 11:00:07",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 16,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2021-03-14 10:00:03",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 17,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2015-07-27 18:50:29",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 18,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2022-02-09 20:36:20",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 19,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2016-02-09 11:28:19",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 20,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2014-06-11 14:47:00",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 21,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2020-03-26 07:00:46",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 22,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2000-09-26 20:47:44",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 23,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2017-12-30 02:17:05",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 24,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2015-05-02 03:57:47",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3"
+	},
+	{
+		"idArticulo" : 25,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2000-03-22 12:45:48",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 26,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2005-10-31 02:47:55",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 27,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2015-04-28 21:36:34",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 28,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2010-03-15 16:19:36",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 29,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2019-10-19 08:50:54",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 30,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2003-09-28 18:26:45",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 31,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2017-10-24 22:43:15",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 32,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2016-01-20 23:13:04",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 33,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2013-06-26 07:43:20",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 34,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2008-11-22 21:27:59",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 35,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2019-01-10 03:19:05",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 36,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2009-08-14 18:22:54",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 37,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2007-10-26 14:39:54",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 38,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2006-03-27 13:52:40",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 39,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2011-12-08 03:22:28",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 40,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2017-07-23 19:50:06",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 41,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2017-09-20 12:59:47",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 42,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2019-04-12 11:53:33",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 43,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2007-04-11 21:35:15",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 44,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2005-04-24 06:49:24",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 45,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2016-06-14 15:08:19",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 46,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2019-06-28 08:44:39",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 47,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2012-11-13 01:40:46",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 48,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2006-07-11 07:53:28",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 49,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2009-12-12 18:23:48",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 50,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2012-06-07 12:16:32",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 51,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2005-05-06 23:37:57",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 52,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2016-04-11 03:56:56",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 53,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2007-04-03 16:55:03",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3"
+	},
+	{
+		"idArticulo" : 54,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2021-06-15 00:29:08",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 55,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2007-09-24 09:27:05",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 56,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2021-11-08 12:50:34",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 57,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2013-10-11 02:15:01",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 58,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2015-05-11 19:59:23",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 59,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2009-05-08 19:34:21",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 60,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2009-06-13 09:28:08",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 61,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2000-10-22 18:54:28",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 62,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2022-02-12 17:52:36",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 63,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2016-06-25 13:32:14",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 64,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2008-09-11 18:37:55",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 65,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2000-05-06 10:28:44",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 66,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2013-06-05 00:25:40",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 67,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2007-03-20 05:45:14",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 68,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2012-04-09 08:28:17",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 69,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2013-06-21 06:00:19",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 70,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2013-04-18 17:02:44",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 71,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2013-01-19 11:07:02",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 72,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2007-07-31 01:52:30",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 73,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2007-05-30 09:41:12",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21q11.2-22.3(chr21:7749532-46677460)x3"
+	},
+	{
+		"idArticulo" : 74,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2000-12-15 13:19:54",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 75,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2009-07-02 22:51:08",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 76,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2013-05-02 07:18:09",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 77,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2005-03-11 22:24:16",
+		"Enfermedad_idEnfermedad" : "GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1"
+	},
+	{
+		"idArticulo" : 78,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2020-10-14 17:51:04",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 79,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2022-05-09 17:10:37",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 80,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2007-02-05 20:58:57",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 81,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2008-11-27 21:22:05",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 82,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2013-10-14 22:23:32",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2890G>T (p.Asp964Tyr)"
+	},
+	{
+		"idArticulo" : 83,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2000-01-01 13:51:16",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 84,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2018-02-12 14:08:16",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 85,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2002-06-10 05:23:50",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 86,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2007-10-09 04:45:00",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 87,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2016-02-19 16:42:51",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 88,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2003-06-15 03:59:52",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 89,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2007-10-12 12:00:08",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 19p13.3-13.2(chr19:1972245-9648879)x3"
+	},
+	{
+		"idArticulo" : 90,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2015-05-25 03:08:01",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4802C>T"
+	},
+	{
+		"idArticulo" : 91,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2010-03-04 23:17:48",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 92,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2010-06-08 12:53:37",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	},
+	{
+		"idArticulo" : 93,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2001-04-23 07:49:27",
+		"Enfermedad_idEnfermedad" : "NM_000208.3(INSR):c.*4803G>A"
+	},
+	{
+		"idArticulo" : 94,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2010-07-17 12:37:23",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2932A>G (p.Ile978Val)"
+	},
+	{
+		"idArticulo" : 95,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2013-03-18 13:52:18",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 96,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2019-11-15 15:27:32",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 97,
+		"Nombre" : "No queda nada por descubrir",
+		"Fecha" : "2010-08-11 02:24:45",
+		"Enfermedad_idEnfermedad" : "NC_000019.10:g.(?_7112255)_(7249328_?)del"
+	},
+	{
+		"idArticulo" : 98,
+		"Nombre" : "La mejor enfermedad del mundo",
+		"Fecha" : "2001-05-29 07:10:34",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2866G>A (p.Val956Ile)"
+	},
+	{
+		"idArticulo" : 99,
+		"Nombre" : "Se descubre nueva proteína",
+		"Fecha" : "2022-02-17 10:08:28",
+		"Enfermedad_idEnfermedad" : "NM_004969.4(IDE):c.2779T>C (p.Tyr927His)"
+	},
+	{
+		"idArticulo" : 100,
+		"Nombre" : "La peor enfermedad del mundo",
+		"Fecha" : "2005-10-05 18:38:12",
+		"Enfermedad_idEnfermedad" : "GRCh38/hg38 21p11.2-q22.3(chr21:7749532-46670405)x3"
+	}
+]

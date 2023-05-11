@@ -1,0 +1,30 @@
+[
+	{
+		"idAutor" : "00000001I",
+		"Nombre" : "ISMAEL_NAVAS_DELGADO"
+	},
+	{
+		"idAutor" : "00000001P",
+		"Nombre" : "PABLO_BERMUDEZ_GAMEZ"
+	},
+	{
+		"idAutor" : "00000001S",
+		"Nombre" : "SUSANA_ROCIO_FERNANDEZ_GIACCOMASSI"
+	},
+	{
+		"idAutor" : "00000001V",
+		"Nombre" : "VICTOR_GUIRADO_OSORIO"
+	},
+	{
+		"idAutor" : "00000002P",
+		"Nombre" : "PABLO_MORENO_GARCIA-ESPINA"
+	},
+	{
+		"idAutor" : "00000002S",
+		"Nombre" : "SANDRO_JOSE_HURTADO_REQUENA"
+	},
+	{
+		"idAutor" : "11111111",
+		"Nombre" : "PEDRO SANCHEZ"
+	}
+]

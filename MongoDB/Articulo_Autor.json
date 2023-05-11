@@ -1,0 +1,294 @@
+[
+	{
+		"Articulo_idArticulo" : 1,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 2,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 3,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 4,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 5,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 6,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 7,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 8,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 9,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 10,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 11,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 12,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 13,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 14,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 15,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 16,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 17,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 18,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 19,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 20,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 21,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 22,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 23,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 24,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 25,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 26,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 27,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 28,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 29,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 30,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 31,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 32,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 33,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 34,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 35,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 36,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 37,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 38,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 39,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 40,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 41,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 42,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 43,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 44,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 45,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 46,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 47,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 48,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 49,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 50,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 51,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 52,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 53,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 54,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 55,
+		"Autor_idAutor" : "00000001V"
+	},
+	{
+		"Articulo_idArticulo" : 56,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 57,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 58,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 59,
+		"Autor_idAutor" : "00000001P"
+	},
+	{
+		"Articulo_idArticulo" : 60,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 61,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 62,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 63,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 64,
+		"Autor_idAutor" : "00000002S"
+	},
+	{
+		"Articulo_idArticulo" : 65,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 66,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 67,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 68,
+		"Autor_idAutor" : "11111111"
+	},
+	{
+		"Articulo_idArticulo" : 69,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 70,
+		"Autor_idAutor" : "00000002P"
+	},
+	{
+		"Articulo_idArticulo" : 71,
+		"Autor_idAutor" : "00000001S"
+	},
+	{
+		"Articulo_idArticulo" : 72,
+		"Autor_idAutor" : "00000001I"
+	},
+	{
+		"Articulo_idArticulo" : 73,
+		"Autor_idAutor" : "00000002S"
+	}
+]
